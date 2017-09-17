@@ -1,0 +1,6 @@
+{
+  "_id": "Corpus",
+  "namespace": "we1sv1.1",
+  "path": null,
+  "description": "The root node for Corpus manifests. The data store for primary and generated data."
+}

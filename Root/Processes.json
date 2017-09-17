@@ -1,0 +1,6 @@
+{
+  "_id": "Processes",
+  "namespace": "we1sv1.1",
+  "path": null,
+  "description": "The root node for Processes manifests. Metadata about workflow processes used to collect and generate data."
+}
