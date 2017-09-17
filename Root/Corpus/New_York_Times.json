@@ -1,0 +1,11 @@
+{
+  "_id": "New_York_Times",
+  "publications": [",Publications,New_York_Times,"],
+  "path": ",Corpus,",
+  "description": "Some content from the New York Times",
+  "collectors": ["Alan Liu"],
+  "date": [{"start": "2017-01-01"}, {"end": "2018-01-01"}],
+  "workstation": "Windows 8.1", 
+  "queryTerms": ["humanities"],
+  "processes": ["*path to process*"]
+}

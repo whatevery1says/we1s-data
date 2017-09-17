@@ -1,0 +1,21 @@
+{
+  "_id": "Process_Example",
+  "path": ",Processes,Process_Example,",
+  "description": "A process to remove stop words.",
+  "editors": [],
+  "source": [],
+  "steps": [
+              {
+               "seq": 1,
+               "reference": "*path to process record*",
+               "description": ""
+              },
+              {
+               "seq": 2,
+               "reference": "*path to process record*",
+               "description": ""
+              }
+            ],
+  "date": [{"start": "2013-01-01"}, {"end": "2013-01-01"}],
+  "workstation": "workstation"
+}
