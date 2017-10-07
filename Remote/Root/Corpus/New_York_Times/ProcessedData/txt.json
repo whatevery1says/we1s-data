@@ -1,7 +1,4 @@
-[
-  "nyt-0001.article.txt",
-  "nyt-0002.article.txt",
-  "nyt-0003.article.txt",
-  "nyt-0004.article.txt",
-  "nyt-0005.article.txt"
-]
+{
+  "_id": "txt",
+  "path": ",Corpus,New_York_Times,RawData,"
+}
