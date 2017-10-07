@@ -1,0 +1,15 @@
+{
+  "_id": "my_test_project",
+  "namespace": "we1sv1.1",
+  "path": null,
+  "description": "The root node for a Project manifest. The data store for metadata and resources related to the project.",
+  "contributors": [{
+    "title": "Scott Kleinman"
+  }],
+  "created": "2017-10-07",
+  "resources": [{
+    "name": "New_York_Times",
+    "path": ",Corpus,New_York_Times,"
+  }],
+  "notes": ["The current draft schema for Project manifest specifies that the `name` property should be in lower case. This is violated for consistency with the rest of the manuscripts, which use upper case for the `_id` of the collection."]
+}
